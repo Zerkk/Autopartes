@@ -1,0 +1,5 @@
+2019-10-15T12:15:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-admin/network/upgrade.php:18
+Stack trace:
+#0 {main}
+  thrown en /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-admin/network/upgrade.php en la línea 18
+

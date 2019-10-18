@@ -1,0 +1,8 @@
+2019-10-17T06:44:58+00:00 CRITICAL Uncaught Exception: Element must be mapped in system in /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-vc-shortcodes-manager.php:101
+Stack trace:
+#0 /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-vc-shortcodes-manager.php(135): Vc_Shortcodes_Manager->getElementClass('ajzaa_product_c...')
+#1 /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php(714): Vc_Shortcodes_Manager->shortcodeClass()
+#2 /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php(643): Vc_Frontend_Editor->renderShortcodes(Array)
+#3 /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-includes/class-wp-hook.php(286): Vc_Frontend_Editor->loadShortcodes('')
+#4 /home/vw17k532b2wq/public en /home/vw17k532b2wq/public_html/autopartes.clinicadelairbag.com/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-vc-shortcodes-manager.php en la línea 101
+
